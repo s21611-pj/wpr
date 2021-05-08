@@ -1,0 +1,6 @@
+firstName,lastName,email,address,cardNumber,checkInDateTime,checkOutDateTime,childBed,airConditioning,ashtray,guestsNumber
+sdsds,sdss,sss@wp.pl,ad,2222222222222222222,2021-05-19T20:51,2021-05-27T20:51,Yes,No,No,4
+asdsdsd,sdsd,sdsds@www.pl,asdsd,2222222222222222222,2021-05-27T20:51,2021-05-30T20:51,No,No,No,3
+ssd,sdf,dfsd@sp.pl,asd,1111111111111111111,2021-05-11T21:38,2021-05-19T21:38,Yes,No,No,1
+ssd,sdf,dfsd@sp.pl,asd,1111111111111111111,2021-05-11T21:38,2021-05-19T21:38,Yes,No,No,1
+ddd,ddd,sdf@sp.pl,sd,1111111111111111111,2021-05-21T21:39,2021-05-20T21:39,No,No,No,1
